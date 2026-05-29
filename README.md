@@ -1,2 +1,14 @@
 # Syntecxhub_Sales.Performance.Dashboard.Project_Cynthia.OGBEKHIULU
-An interactive Power BI sales performance dashboard designed to analyze regional revenue, track key profitability metrics, and uncover data-driven retail trends.
+
+## Project Overview
+This repository contains a comprehensive data analytics and visualization project focused on evaluating sales performance and profitability. Utilizing **Power BI**, this interactive dashboard transforms raw sales data into actionable business intelligence by tracking key performance indicators (KPIs), identifying top-performing retail methods, and analyzing regional revenue distribution.
+
+## Key Features
+* **Dynamic KPI Tracking:** Real-time visibility into total sales, profit margins, etc.
+* **Regional Analysis:** Insights into performance across geographical regions to identify growth opportunities.
+* **Retailer & Channel Evaluation:** Comparative analysis of sales methods to determine the most profitable distribution channels.
+* **Interactive Design:** User-friendly slicers and filters for deep-dive exploratory data analysis.
+
+## Tools Used
+* **Power BI** – Data modeling, DAX queries, and dashboard visualization.
+* **Microsoft Excel / SQL** – Data preprocessing and structured cleaning.
