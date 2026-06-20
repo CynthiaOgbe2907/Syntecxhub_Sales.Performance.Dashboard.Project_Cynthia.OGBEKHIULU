@@ -11,4 +11,11 @@ This repository contains a comprehensive data analytics and visualization projec
 
 ## Tools Used
 * **Power BI** – Data modeling, DAX queries, and dashboard visualization.
-* **Microsoft Excel / SQL** – Data preprocessing and structured cleaning.
+* **Microsoft loan – Data preprocessing and structured cleaning.
+
+📂 Repository Structure
+/Dataset : Contains the raw financial file CSV data used for testing and verification.
+/PowerBI_Report : Contains the native .pbix dashboard file
+
+👤 Author
+Developed by Cynthia Ogbekhiulu * GitHub: @CynthiaOgbe2907
